@@ -1,0 +1,17 @@
+# File: requirements.txt
+fastmcp>=2.0.0
+fastapi
+uvicorn[standard]
+sqlmodel
+pydantic
+python-multipart
+torch==2.8.0
+transformers>=4.30.0
+sentence-transformers>=2.2.2
+sqlalchemy>=1.4
+psycopg2-binary>=2.9
+pgvector>=0.4
+python-dateutil>=2.8.2
+dateparser>=1.1.8
+pillow>=9.0
+gradio>=5.49
